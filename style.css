@@ -1,0 +1,174 @@
+.navbar-brand img{
+    vertical-align: unset;
+}
+.logo-title h4{
+    font-size: 16px;
+    color: #fff;
+}
+.logo-title small{
+    font-size: 10px;
+    color: #fff;
+}
+
+body{
+    background-color: #1e202b;
+    color: #bfc1c8;
+}
+.sec-day span{
+    font-size: 20px !important;
+}
+.Third-day span{
+    font-size: 20px !important;
+}
+.nav-item{
+    color: #fff !important;
+    padding: 2px 20px;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    margin-left: 10px;
+    transition:  all .5s;
+
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #fff;
+    padding: 0;
+    transition: all .5s;
+}
+.active , .active a{
+    border-color: #009ad8 !important;
+    color: #009ad8 !important;
+}
+.site-nav{
+    padding: 30px 0;
+}
+.navbar-light .navbar-toggler{
+    background-color: #818181 !important;
+}
+.nav-item{
+    margin-top: 15px;
+}
+.nav-item:hover{
+    border-color: #009ad8 !important;    
+}
+.nav-item:hover .nav-link{
+    color: #009ad8 !important;    
+}
+
+.another-day img{
+    width: 50px !important;
+    margin-bottom: 26px;
+    margin-top: 16px;
+}
+.another-day h3{
+    font-size: 20px !important;
+    font-weight: 700;
+}
+.input-data{
+    background-color: #1e202b;
+    width: 100%;
+    color: #fff;
+    padding: 13px 25px;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+}
+form:focus{
+    border: none;
+}
+.input-button{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    bottom:5;
+    padding: 0 30px;
+    border-radius: 30px;
+    background-color: #009ad8;
+    color: #fff;
+    border: none;
+}
+.footer{
+    background-color: #262936;
+    padding: 50px 0;
+    margin-top: 40px;
+}
+.footer .socail-links a{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #1e202b;
+    text-align: center;
+    font-size: 20px;
+    color: #009ad8;
+    display: inline-block;
+    line-height: 2 ;
+    transition: all .5s;
+    margin-left: 5px;
+}
+.socail-links i{
+    line-height:unset;
+}
+.socail-links a:hover{
+    background-color: #009ad8;
+    color: #fff;
+}
+.footer p{
+    font-size: 14px;
+    margin-top: 10px;
+}
+.weather-container{
+    background-color: #323544;
+    opacity: .9;
+}
+.weather-container .dates{
+    padding: 16px;
+    background-color: rgba(0, 0, 0,.2);
+}
+.weather-container .degree h2{
+    font-size: 90px;
+    font-weight: 800;
+    color: #fff;
+}
+.weather-container .degree span{
+    font-size: 90px;
+    font-weight: 800;
+    color: #fff;
+}
+.status-weather{
+    color:#009ad8;
+    margin: 20px 0;
+}
+.background-weather{
+    background-image: url(images/banner.png);
+     background-repeat: no-repeat;
+     padding-top: 70px;
+}
+.weather-table{
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.degree h3{
+    color: #fff;
+    font-size: 32px;
+}
+.degree h5{
+    font-size: 16px;
+}
+.degree img{
+    width: 90px;
+}
+.degree-img{
+    vertical-align: middle;
+    margin-top: 10px;
+}
+.Weather{
+    background-color: #262936;
+}
+.Weather .dates{
+    padding: 16px;
+    background-color: rgba(0, 0, 0,.2);
+}
+.details img{
+    margin-right: 5px;
+    width: 18px;
+}
+
